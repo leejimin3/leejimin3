@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Jimin's Profile
+## Jimin's Profile
 
 - 🔭 I’m currently working on "AYU"
 - 🌱 I’m currently learning "Unreal Engine / Unity"
