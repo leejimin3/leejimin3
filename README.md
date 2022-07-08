@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-## Jimin's Profile
+## Jimin's Profile  
+
+<img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=Unreal&logoColor=white"/>  
+
 
 - 🔭 I’m currently working on "AYU"
 - 🌱 I’m currently learning "Unreal Engine / Unity"
@@ -10,4 +13,5 @@
 - 📫 How to reach me: "ttette1559@naver.com"
 - 😄 Pronouns: "Only those who try can regret it"
 - ⚡ Fun fact: "I am still 25 years old"
+
 
