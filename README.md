@@ -1,3 +1,5 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Jimin's%20Profile&fontSize=50)
 ## Engine  
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>  
@@ -10,16 +12,18 @@
 
 --- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejimin3&layout=compact)](https://github.com/leejimin3/github-readme-stats)
+
 
 ### Jimin's Profile  
 
-- 🔭 I’m currently working on "AYU"
-- 🌱 I’m currently learning "Unreal Engine / Unity"
-- 👯 I’m looking to collaborate on "Other Unreal Project"
-- 🤔 I’m looking for help with "C++"
-- 💬 Ask me about "Anything"
-- 📫 How to reach me: "ttette1559@naver.com"
-- 😄 Pronouns: "Only those who try can regret it"
-- ⚡ Fun fact: "I am still 25 years old"  
+ 🔭 I’m currently working on "AYU"
+ 🌱 I’m currently learning "Unreal Engine / Unity"
+ 👯 I’m looking to collaborate on "Other Unreal Project"
+ 🤔 I’m looking for help with "C++"
+ 💬 Ask me about "Anything"
+ 📫 How to reach me: "ttette1559@naver.com"
+ 😄 Pronouns: "Only those who try can regret it"
+ ⚡ Fun fact: "I am still 25 years old"  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejimin3&layout=compact)](https://github.com/leejimin3/github-readme-stats)
+</div>
