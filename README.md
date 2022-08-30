@@ -20,7 +20,7 @@
 
 
 
-## Jimin's Profile  
+## Profile  
 
  🔭 I’m currently working on "AYU"  
  🌱 I’m currently learning "Unreal Engine / Unity"  
