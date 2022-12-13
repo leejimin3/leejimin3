@@ -37,7 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejimin3&layout=compact&theme=dracula)](https://github.com/leejimin3/github-readme-stats)
 ![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejimin3&&show_icons=true&theme=dracula)  
 -->
----
 
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
