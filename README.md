@@ -15,17 +15,18 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>  <img src="https://img.shields.io/badge/Oculus-1C1E20E?style=flat&logo=Oculus&logoColor=white"/>  
 
-
 <!--
 ---  
+
+
 
 
 ## Profile  
 
  🔭 I’m currently working on "AYU"  
  🌱 I’m currently learning "Unreal Engine / Unity"  
- 👯 I’m looking to collaborate on "Other Unreal Project"  
- 🤔 I’m looking for help with "C++"  
+ 👯 I’m looking to collaborate on "Any Other Project"  
+ 🤔 I’m looking for help with "C++" "C#" 
  💬 Ask me about "Anything"  
  📫 How to reach me: "ttette1559@naver.com"  
  😄 Pronouns: "Only those who try can regret it"  
