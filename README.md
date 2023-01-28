@@ -4,8 +4,8 @@
 
 # Engine
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>  
-
+<!-- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>  
+-->
 
 
 # Language  
