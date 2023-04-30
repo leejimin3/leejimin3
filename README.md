@@ -19,8 +19,6 @@
 ---  
 
 
-
-
 ## Profile  
 
  🔭 I’m currently working on "AYU"  
