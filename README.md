@@ -1,10 +1,17 @@
-<div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Jimin's%20Profile&fontSize=30)
-
-### Tech Stack
+<div align=center>  
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Jimin's%20Profile&fontSize=50)  
+ 
+</div>  
+  
+## Tech Stack🔑
+ 
+ <div align=center>
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>  
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C shape-239120?style=flat&logo=C shape&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
+
+ </div>
+ 
 <!--
 # Tool  
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white"/>  
@@ -35,4 +42,4 @@
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
  -->
- </div>
+
