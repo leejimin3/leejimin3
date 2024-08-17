@@ -12,7 +12,8 @@
 
 
   
-![image](https://github.com/user-attachments/assets/30f72556-8e33-4371-9aa6-06fb4162996b)
+![image](https://github.com/user-attachments/assets/666c7b82-5c5d-4c44-9f0e-0223998a422c)
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttette159)](https://solved.ac/ttette159/)
 ![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejimin3&&show_icons=true&theme=dracula)
