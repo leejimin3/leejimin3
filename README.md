@@ -10,6 +10,11 @@
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>  
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C shape-239120?style=flat&logo=C shape&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
 
+
+  
+![image](https://github.com/user-attachments/assets/30f72556-8e33-4371-9aa6-06fb4162996b)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
  </div>
  
 <!--
