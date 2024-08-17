@@ -14,6 +14,10 @@
   
 ![image](https://github.com/user-attachments/assets/30f72556-8e33-4371-9aa6-06fb4162996b)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttette159)](https://solved.ac/ttette159/)
+![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejimin3&&show_icons=true&theme=dracula)
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
  </div>
  
