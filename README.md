@@ -17,7 +17,6 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttette159)](https://solved.ac/ttette159/)
-![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejimin3&&show_icons=true&theme=dracula)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
